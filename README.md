@@ -27,7 +27,7 @@ executes a custom waste-detection algorithm to isolate "Zombie Resources"—expe
 pipeline successfully flags untagged spend, groups infrastructure burn rates by department, and outputs an analytical dataset engineered to reclaim 5.2% in 
 monthly spend leakage, translating into a strategic roadmap for over $14,000 in annual OpEx savings.
 
-👉 [View project]((https://github.com/MaqsoodKhan04/Cloud-Infrastructure-Cost-Optimization-Audit))
+👉 [View project](https://github.com/MaqsoodKhan04/Cloud-Infrastructure-Cost-Optimization-Audit)
 
 ### SaaS Customer Churn Analysis
 This is the project I'm most proud of so far. I built a health
